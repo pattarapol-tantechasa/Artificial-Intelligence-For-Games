@@ -1,0 +1,4 @@
+Condition,Runs,TacticalBot Wins,NaiveBot Wins,Draws,TacticalBot Win%
+Symmetric baseline (map001-010),100,97,3,0,97.0%
+Asym — TacticalBot P1 (advantaged),20,20,0,0,100.0%
+Asym — TacticalBot P2 (disadvantaged),20,20,0,0,100.0%

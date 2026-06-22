@@ -1,0 +1,17 @@
+{
+	"planets": [
+		{"x": 0.1,  "y": 0.5,  "growth": 3, "ships": 100},
+		{"x": 0.9,  "y": 0.5,  "growth": 3, "ships": 100},
+		{"x": 0.15, "y": 0.25, "growth": 5, "ships": 50},
+		{"x": 0.15, "y": 0.75, "growth": 5, "ships": 50},
+		{"x": 0.03, "y": 0.5,  "growth": 4, "ships": 30},
+		{"x": 0.85, "y": 0.25, "growth": 1, "ships": 80},
+		{"x": 0.85, "y": 0.75, "growth": 1, "ships": 80},
+		{"x": 0.97, "y": 0.5,  "growth": 1, "ships": 60},
+		{"x": 0.5,  "y": 0.5,  "growth": 2, "ships": 150},
+		{"x": 0.35, "y": 0.3,  "growth": 2, "ships": 100},
+		{"x": 0.35, "y": 0.7,  "growth": 2, "ships": 100},
+		{"x": 0.65, "y": 0.3,  "growth": 2, "ships": 100},
+		{"x": 0.65, "y": 0.7,  "growth": 2, "ships": 100}
+	]
+}

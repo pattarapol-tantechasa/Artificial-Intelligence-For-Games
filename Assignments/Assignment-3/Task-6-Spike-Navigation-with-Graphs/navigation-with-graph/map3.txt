@@ -1,0 +1,16 @@
+# map3.txt - Custom map featuring Forest and Hill terrain types
+# Width x Height
+10 10
+# Start (bottom-left) and Target (top-right)
+0 99
+# Map layout (top row first)
+. . . . . h h h . .
+. f f f . h X h . .
+. f X f . h h h . .
+. f f f . . . . . .
+. . . . X X . . . .
+. . . . X X . . . .
+. . . . . . f f . .
+. h h . . . f X . .
+. h X h . . f f . .
+. . h h . . . . . .

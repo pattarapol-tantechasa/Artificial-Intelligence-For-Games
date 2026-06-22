@@ -1,0 +1,24 @@
+# Width X Height
+20 20
+# Map layout (top row first)
+# Terrain: . clear  m mud  ~ water  f forest  h hill  i ice  X wall
+X X X X X X X X X X X X X X X X X X X X
+X . . . . . f f f . . . . h h . . . . X
+X . X X X . f f . . ~ ~ . h h . i i . X
+X . X . X . . . . . ~ ~ . . . . i i . X
+X . X . X X X . . . . . . . . . . . . X
+X . . . . . . . X X X . . . . m m . . X
+X . f f . . . . X . X . h h . m m . . X
+X . f f . . . . X . X . h h . . . . . X
+X . . . . ~ ~ . . . X . . . . . . . . X
+X . . . . ~ ~ . . . X X X X . . . . . X
+X . . . . . . . . . . . . X . i i . . X
+X . m m . . . . . . . . . X . i i . . X
+X . m m . X X X X . . . . . . . . . . X
+X . . . . X . . X . ~ ~ . . . h h . . X
+X . h h . X . . X . ~ ~ . . . h h . . X
+X . h h . X . . X . . . . . . . . . . X
+X . . . . . . . X X X X X . . . . . . X
+X . . . f f . . . . . . . . m m . . . X
+X . i i f f . . . . . . . . m m . . . X
+X X X X X X X X X X X X X X X X X X X X
